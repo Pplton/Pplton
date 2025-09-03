@@ -1,5 +1,5 @@
 ## Olá, eu sou o Ewerton 👋
-
+ 
 Sou apaixonado por tecnologia e atualmente estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**.  
 Tenho experiência com **Python, Java, HTML, C++** e venho me aprofundando em **TypeScript**.  
 
