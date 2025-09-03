@@ -68,3 +68,4 @@ Você pode acompanhar minha jornada através do meu Instagram:
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pplton&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
